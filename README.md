@@ -14,4 +14,5 @@ https://gabrielmglh.github.io/lecture-notes/
 
 ## 📫 Contato
 LinkedIn: www.linkedin.com/in/gabrielmglh
+
 Email: gabrielcapelini@gmail.com
