@@ -1,16 +1,17 @@
-## Hi there 👋
+# Gabriel Capelini
 
-<!--
-**gabrielmglh/gabrielmglh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Mestrando em Física | Analista de dados em formação
 
-Here are some ideas to get you started:
+Sou físico teórico e atualmente estou desenvolvendo projetos em análise de dados utilizando Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias
+- Python (Pandas, NumPy, Matplotlib)
+- Git
+
+## ⚛️ Notas de aula sobre física (em inglês)
+
+https://gabrielmglh.github.io/lecture-notes/
+
+## 📫 Contato
+LinkedIn: www.linkedin.com/in/gabrielmglh
+Email: gabrielcapelini@gmail.com
