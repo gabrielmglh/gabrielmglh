@@ -6,6 +6,6 @@ Sou físico teórico na área de teórica quântica de campos e matéria condens
 - Python (Pandas, NumPy, Matplotlib)
 - Git
 
-## ⚛️ Notas de aula sobre física (em inglês)
+## ⚛️ Minha página acadêmica (em inglês)
 
-https://gabrielmglh.github.io/lecture-notes/
+https://gabrielmglh.github.io
