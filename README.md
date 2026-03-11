@@ -1,11 +1,8 @@
-# Olá, me chamo Gabriel Capelini Magalhães
+# Hello, my name is Gabriel Capelini Magalhães
 
-Sou físico teórico na área de teórica quântica de campos e matéria condensada e atualmente estou desenvolvendo projetos em análise de dados utilizando Python.
+I am a theoretical physicist with research focused on quantum field theory and condensed matter physics. Currently, I am developing projects on data analysis using python.
 
-## 🔧 Tecnologias
-- Python (Pandas, NumPy, Matplotlib)
-- Git
 
-## ⚛️ Minha página acadêmica (em construção)
+## ⚛️ My academic page (building)
 
 https://gabrielmglh.github.io
