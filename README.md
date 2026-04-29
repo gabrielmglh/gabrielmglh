@@ -8,9 +8,12 @@ Currently I am also developing projects in data analysis with Python, focusing o
 
 ## Data Analysis Projects
 
-- [**Cohort and RFM Analysis**](https://github.com/gabrielmglh/random-cohort-rfm-analysis)  
-  Cohort and RFM (Recency, Frequency, Monetary) analysis on a randomly generated dataset using **NumPy and Python**.
+- [**Amazon Kindle Book Review Sentiment Analysis**](https://github.com/gabrielmglh/book-sentiment-analysis).
+  Sentiment analysis usin based on reviews from books of Amazon Kindle using Machine Learning techiniques.
 
+- [**Cohort and RFM Analysis**](https://github.com/gabrielmglh/random-cohort-rfm-analysis)  
+  Cohort and RFM (Recency, Frequency, Monetary) analysis on a randomly generated dataset using NumPy.
+  
 ---
 
 ## Academic Page
