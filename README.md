@@ -13,12 +13,3 @@ Currently I am also developing projects in data analysis with Python, focusing o
 
 - [**Cohort and RFM Analysis**](https://github.com/gabrielmglh/random-cohort-rfm-analysis)  
   Cohort and RFM (Recency, Frequency, Monetary) analysis on a randomly generated dataset using NumPy.
-  
----
-
-## Academic Page
-
-My academic page (in progress):
-
-https://gabrielmglh.github.io
-
