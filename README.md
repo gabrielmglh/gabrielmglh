@@ -2,7 +2,9 @@
 
 I am a theoretical physicist working in Quantum Field Theory and Condensed Matter Physics.
 
-Currently I am also developing projects in data analysis with Python, focusing on statistical analysis, customer segmentation and data visualization. I also apply these techniques to physical problems.
+Currently I am also developing projects in data analysis with Python, focusing on statistical analysis, customer segmentation and data visualization. I also apply these techniques to physical problems. 
+
+You can check my academic page [here](https://gabrielmglh.github.io/). There you will find some notes on subjects that I am currently studying and other useful information.
 
 ---
 
